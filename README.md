@@ -8,9 +8,7 @@
 
 You should have a local server running on `localhost:3000` and see the following:
 
-// image
-
-## Environment
+## ![mainpage](/images/mainpage.png)Environment
 
 ### API Key
 
@@ -36,10 +34,22 @@ Now you can use a [faucet](https://faucet.egorfine.com/) to receive ETH on one o
 
 On the Eth card, you should see your current account address
 
-// show eth card
+![card](/images/card.png)
 
 In the form bellow, `Address To` put your second account address, any amount of Eth you want to send in the `Amount (Eth)` field.
 
 The `Keyword (Gif)` field will retrieve from Giphy (using your api key)  a Gif using your keyword. And Finally you can send a `message`.
 
 You are now ready to click `Send Now` and you should see your message appear at the bottom of the `Latest transactions`.
+
+![latest_transaction](/images/latest_transaction.png)
+
+## Other features
+
+It is also mobile responsive
+
+![mobile_1](/images/mobile_1.png)
+
+
+
+![mobile_responsive2](/images/mobile_responsive2.png)
